@@ -1,4 +1,4 @@
-test_repo
+datasciencecoursera
 =========
 
-Test for DataScience Track
+Repo for DataScience Track
